@@ -79,7 +79,6 @@ class DBWNode(object):
         self.throttle = 0
         self.steering = 0
         self.brake = 0
-        # TODO: Subscribe to all the topics you need to
 
         self.loop()
 
